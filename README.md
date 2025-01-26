@@ -171,4 +171,4 @@ val query = streamDf.writeStream
     .start()  
 query.awaitTermination()  
    
-**These examples show how to perform basic operations with Spark, including creating a session, loading data, transforming datasets, querying with SQL, writing data to storage, and processing streaming data.**  
+**These above examples shows how to perform basic operations with Spark, including creating a session, loading data, transforming datasets, querying with SQL, writing data to storage, and processing streaming data.**  
